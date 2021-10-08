@@ -1,0 +1,41 @@
+License Agreement
+
+Please read the following terms and conditions before using this software. Use of JPEG Recovery indicates you accept the terms of this license agreement and warranty.
+
+Registered Version (Licensed Version)
+
+You may install and use one copy of JPEG Recovery on a single home computer at a time and only by one user at a time. 
+
+You may also store or install a copy of JPEG Recovery on a storage device, such as a network server, used only to install or run JPEG Recovery on your other computers over an internal network. However, you must acquire and dedicate a license for each separate computer on which JPEG Recovery is installed or run from the storage device.
+
+A license for JPEG Recovery may not be used concurrently on different computers.
+
+JPEG Recovery cannot be used in or by any other software unless a license agreement has also been obtained.
+
+No user may modify this program in any way, without the express written permission of e.World Technology Limited including, but not limited to, decompiling, disassembling, debugging or otherwise reverse-engineering the program.
+
+Governing Law
+
+This agreement shall be governed by the laws of Hong Kong.
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OF MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the various hardware and software environments into which JPEG Recovery may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS OFFERED.
+
+Good data processing practice dictates that any new program should be thoroughly tested by the user with non-critical data before relying on it. The user must assume the entire risk of using the program. ANY LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+Shareware Version
+
+Evaluation and Registration
+
+This is shareware, which is not free software. Subject to the terms below, you are hereby licensed to use this software for evaluation purposes without charge for a period of 15 days. If you use this software after the 15 day evaluation period, registration is required. Registrations are fulfilled by e.World Technology Limited. For further information, visit the JPEG Recovery Web site at: http://www.hketech.com/JPEG-recovery.
+
+Credit card ordering is available, visit the JPEG Recovery website at: http://www.hketech.com/JPEG-recovery for further information. When payment is received, you will be sent a registration number for JPEG Recovery via e-mail.
+
+Unregistered use of JPEG Recovery after the 15-day evaluation period is in violation of Hong Kong and international copyright laws.
+
+Distribution
+
+Provided that you are distributing the current non-registered Shareware Version (select About from the JPEG Recovery Help menu to check) you are hereby granted permission to duplicate and distribute the program; give exact copies of the original Shareware version to anyone; and distribute the Shareware version of the software and documentation in its unmodified form via electronic means. There is no charge for any of the above.
+
+You are specifically prohibited from charging, or requesting donations, for any such copies, however made; from distributing the software and/or documentation with other products (commercial or otherwise) without prior written permission.
